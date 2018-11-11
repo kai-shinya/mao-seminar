@@ -6,7 +6,7 @@ https://elmas3.github.io/mao-seminar/
 #メンバー
 まおー
 エルメスさん
-わかばわかばわかばわかば
+わかば
 
 
 # ディレクトリ構成
