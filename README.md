@@ -6,7 +6,7 @@ https://elmas3.github.io/mao-seminar/
 #メンバー
 まおー教授
 エルメスさん
-わかばちゃん
+わかばちゃんかわいい
 
 
 # ディレクトリ構成
